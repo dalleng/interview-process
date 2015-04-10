@@ -2,35 +2,37 @@
 
 Typical interview process for software developper and engineer. 
 
-##Initial Call
+##0. Initial Call
 *Call - 30 minutes*
 
-###About the company
+**About the company**
 
-* General presentation
-* Vision & teamwork
+* General product presentation
+* Vision & Culture
 * Job - Postion & Role
-* Interview process
+* Interview process details
 
-###About the candidate
+**About the candidate**
 
 * Skills
 * Interests
 * Motivations
 * Experience
 
-## Technical exercice
-*Call or online test - 1 hour*
+##1. Technical exercice
+*Call or online test - 1 hour - [Details and example](./1-technical)*
 
-###On phone
+Usually on phone, but can be done on site as well. More technical question to the cadidate, done by an engineer at the company.
 
-###Online test platform
+It is good practice to use collaborative coding platform and save what the candidate wrote. For example [JSFiddle](https://jsfiddle.net/), [Stypi](https://code.stypi.com), etc ...
 
-* [Codility](https://codility.com/) - *Plans starts at $200/months*
-* [HackerRank](https://www.hackerrank.com/work/) - *Plans starts at $200/months*
+**Online test platform** (Optional)
 
-##Project homework
-*[Optional] - 4 hours*
+* [Codility](https://codility.com/) - *Plans starts at $200/month*
+* [HackerRank](https://www.hackerrank.com/work/) - *Plans starts at $200/month*
 
-##On site interview
-*Final step - 4 hours*
+##2. Project homework
+*[Optional] - 4 hours -  [Details and example](./2-projects)*
+
+##3. On site interview
+*Final step - 4 hours -  [Details and example](./3-on-site)*
