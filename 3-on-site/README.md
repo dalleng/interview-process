@@ -1,10 +1,35 @@
-#Draft
+#On Site interview
+*Last step - ~4 hours*
 
-* Step 1 - Personality, experience, workflow ... - max 1 hour
-* Step 2 - General question about one language - max 1 hour
-* Step 3 - Engineer - Algo - Max 2 hours
-* Step 3 - Developer - Prog - Max 2 hours
+It takes about a half, it is the occasion for the candidate to meet the team and see the office. Based on the size of the team it usually split into 2-5 meetings from about 45 minutes to 1:30 hours long.
 
-Others:
+There is no specific order in which meet the different people. Depends on their availability. Don't forget to give the candidate a pause in the middle, for example to visit the office.
 
-Visit building / Answer questions, etc ...
+##General talk
+*Max 1 hour - CEO or CTO or Principle*
+
+* Personality
+* Background
+* Culture
+* Vision
+* Motivations
+
+##Technical talk
+*Max 1 hour - Lead Engineer*
+
+* Workflow
+* Skills
+* Technologies
+* Experiences
+
+##Programing exercices
+*Max 1.5 hours - [Details and examples](./prog)*
+
+Make the candidate write some code and answer programing questions on multiple
+languages.
+
+##Algo challenges
+*Max 2 hours - [Details and examples](./algo)*
+
+Test how the candidate is able to think about a problem and the reasonning to
+the final answer.
