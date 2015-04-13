@@ -1,6 +1,6 @@
 #Draft
 
-*Reflection questions*
+*Reflexion questions*
 
 * Battleship game - 20
 * Char combination - 20
