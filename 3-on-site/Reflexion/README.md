@@ -2,14 +2,12 @@
 
 *Reflexion questions*
 
-* Battleship game - 20
-* Char combination - 20
-* Array diff (shuffle) - 10
-* Max square - 30
+* Array diff (shuffle) - 10 min
+* Char combination - 20 min
+* Max square - 30 min
  
 *Engineer questions*
 
-* Big O notation
+* Big O notation - time & space complexity
 * Data types
-* Design patterns & Principles
-* Languages paradigms
+* Design patterns
