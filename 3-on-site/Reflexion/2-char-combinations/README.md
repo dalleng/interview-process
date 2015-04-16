@@ -19,5 +19,3 @@ Output: `a b c ab ac bc abc`
 Input: `abcd`
 
 Output: `a b c d ab ac ad bc bd abc bcd abcd`
-
-##Solution
