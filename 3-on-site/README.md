@@ -29,7 +29,7 @@ Make the candidate write some code and answer programing questions on multiple
 languages.
 
 ##Reflexion challenges
-*Max 2 hours - [Details and examples](./Reflexion)*
+*Max 1.5 hours - [Details and examples](./Reflexion)*
 
 Test how the candidate is able to think about a problem and the reasonning to
 the final answer.
