@@ -22,14 +22,14 @@ There is no specific order in which meet the different people. Depends on their 
 * Technologies
 * Experiences
 
-##Programing exercices
-*Max 1.5 hours - [Details and examples](./prog)*
+##Programming exercices
+*Max 1.5 hours - [Details and examples](./Programming)*
 
 Make the candidate write some code and answer programing questions on multiple
 languages.
 
-##Algo challenges
-*Max 2 hours - [Details and examples](./algo)*
+##Reflexion challenges
+*Max 1.5 hours - [Details and examples](./Reflexion)*
 
 Test how the candidate is able to think about a problem and the reasonning to
 the final answer.
