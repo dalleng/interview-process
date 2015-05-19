@@ -1,4 +1,4 @@
-#Draft
+# Reflexion process
 
 *Reflexion questions*
 
@@ -7,6 +7,9 @@
 * Max square - 30 min
  
 *Engineer questions*
+
+As the candidate is solving each problems listed above, ask him take about the
+following topics:
 
 * Big O notation - time & space complexity
 * Data types

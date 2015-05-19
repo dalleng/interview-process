@@ -1,9 +1,9 @@
-#Technical interview
+# Technical interview
 *Internal or External - Max 1 hour*
 
 Usually a simple challenge to measure the candidate coding skills. No restrictions should be made in terms of programming language choice.
 
-##Internal
+## Internal
 
 When by a software engineer of the company (on site or remote) it is recommended to use a collaborative platform so that you can save the result and review it before the on-site interview:
 
@@ -11,7 +11,7 @@ When by a software engineer of the company (on site or remote) it is recommended
 * [Stypi](https://code.stypi.com)
 
 
-##External
+## External
 
 When choosing to do the interview using an existing online test platform it makes it easier to manage many candidates:
 * [Codility](https://codility.com/) - *Plans starts at $200/month*

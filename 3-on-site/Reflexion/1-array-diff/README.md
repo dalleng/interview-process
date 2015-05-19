@@ -1,6 +1,6 @@
-#Array diff
+# Array diff
 
-##Probleme
+## Problem
 
 Given two identique arrays of integers `A1` and `A2`. We suffle `A2` and remove one element. 
 
@@ -10,7 +10,7 @@ Given two identique arrays of integers `A1` and `A2`. We suffle `A2` and remove 
 **Note:** The arrays can contain millions of records
 
 
-##Examples
+## Examples
 
 **Integers**
 

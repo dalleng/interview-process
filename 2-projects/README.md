@@ -1,4 +1,4 @@
-#Projects
+# Projects
 *Optional - homework - ~4 hours*
 
 This step is optional but is interesting to do it when you want to measure the code quality of a candidate because

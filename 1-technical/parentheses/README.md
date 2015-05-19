@@ -1,4 +1,4 @@
-#Nested parentheses
+# Nested parentheses
 
 Write a function that takes a string `s` and check if it is properly nested. It should return `true` when `s`:
 * is empty

@@ -1,4 +1,4 @@
-#Javascript Interview questions
+# Javascript Interview questions
 
 ##0. What is the signficance & benefits of `use strict`?
 

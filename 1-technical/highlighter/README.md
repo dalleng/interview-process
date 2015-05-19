@@ -1,4 +1,4 @@
-#HTML highlighter
+# HTML highlighter
 
 One way to make some HTML text appear highlighted is to wrap a segment of
 text with a styled `<span/>` tag.

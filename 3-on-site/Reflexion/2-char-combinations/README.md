@@ -1,12 +1,12 @@
-#Char combinations
+# Char combinations
 
-##Problem
+## Problem
 
 * How to generate all possible combinations of characters from a string? 
 * How many combinations will be generated?
 
 
-##Examples
+## Examples
 
 **3 length string**
 
