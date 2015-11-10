@@ -19,7 +19,7 @@ Typical interview process for software developper and engineer.
 * Motivations
 * Experience
 
-## 1. Technical exercice
+## 1. Technical exercise
 *Call or online test - 1 hour - [Details and example](./1-technical)*
 
 Usually on phone, but can be done on site as well. Usually done by an engineer from the company, the goal
